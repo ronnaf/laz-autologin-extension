@@ -19,3 +19,7 @@ If you want to use it yourself:
 ### Installation
 
 https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
+
+#### Chrome Web Store
+
+Currently pending review :p
