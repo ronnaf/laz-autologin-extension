@@ -1,8 +1,10 @@
-![logo](/icon-144x144.png)
+![laz-autologin-logo](https://user-images.githubusercontent.com/32459751/157216138-5c26dbd5-22dd-476b-9d6d-30939e1ed1e6.png)
 
 # Laz Auto-login Extension
 
 Chrome Extension to automatically log in on Lazada. For Ronna's use only :)
+
+![preview 2 1 1](https://user-images.githubusercontent.com/32459751/157216050-56592652-2372-4e96-870a-769357a2d8b3.png)
 
 ### Why?
 
@@ -23,3 +25,5 @@ https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
 #### Chrome Web Store
 
 Currently pending review :p
+
+![preview 1](https://user-images.githubusercontent.com/32459751/157216004-3d42c57d-3f8b-49bf-b814-468c3e47c05d.png)
