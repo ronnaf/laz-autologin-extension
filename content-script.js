@@ -4,13 +4,13 @@ if (location.hostname === "www.lazada.com.ph") {
   // A sufficient amount of timeout to let the script load
   setTimeout(() => {
     redirectToLoginPage();
-  }, 2000);
+  }, 250);
 }
 if (location.hostname === "member.lazada.com.ph") {
   // A sufficient amount of timeout to let the script load
   setTimeout(() => {
     loginViaFacebook();
-  }, 2000);
+  }, 1250);
 }
 
 function redirectToLoginPage() {
