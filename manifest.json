@@ -1,0 +1,29 @@
+{
+  "name": "Laz Auto-login",
+  "description": "Automatically log in on lazada! Just for Ronna :)",
+  "version": "1.0",
+  "manifest_version": 3,
+  "host_permissions": ["*://*/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/icon-16x16.png",
+      "32": "/icon-32x32.png",
+      "48": "/icon-48x48.png",
+      "128": "/icon-144x144.png"
+    }
+  },
+  "icons": {
+    "16": "/icon-16x16.png",
+    "32": "/icon-32x32.png",
+    "48": "/icon-48x48.png",
+    "128": "/icon-144x144.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.lazada.com.ph/*"],
+      "run_at": "document_end",
+      "js": ["content-script.js"]
+    }
+  ]
+}
