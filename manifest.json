@@ -3,7 +3,6 @@
   "description": "Automatically log in on lazada! Just for Ronna :)",
   "version": "1.0",
   "manifest_version": 3,
-  "host_permissions": ["*://*/*"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
