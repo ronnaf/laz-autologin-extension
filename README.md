@@ -11,3 +11,6 @@ If you want to use it yourself:
 - This extension only logs in with Facebook
 - This extension is untested
 - The logo is pretty cool though
+
+### Installation
+https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
