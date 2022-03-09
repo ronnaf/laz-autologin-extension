@@ -1,3 +1,7 @@
+# IMPORTANT!
+
+This is a much better solution: https://github.com/ronnaf/lazlonger
+
 ![laz-autologin-logo](https://user-images.githubusercontent.com/32459751/157216138-5c26dbd5-22dd-476b-9d6d-30939e1ed1e6.png)
 
 # Laz Auto-login Extension
