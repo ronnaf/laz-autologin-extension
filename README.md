@@ -28,6 +28,6 @@ https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
 
 #### Chrome Web Store
 
-Currently pending review :p
+~~Currently pending review :p~~ https://chrome.google.com/webstore/detail/laz-auto-login/iphlldoopfjgcbhekdcaoibfdnhmhjbn
 
 ![preview 1](https://user-images.githubusercontent.com/32459751/157216004-3d42c57d-3f8b-49bf-b814-468c3e47c05d.png)
